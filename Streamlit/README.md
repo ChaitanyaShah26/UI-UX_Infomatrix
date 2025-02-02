@@ -12,4 +12,6 @@ streamlit run app.py
 
 ## App Preview
 
-<video src="https://github.com/ChaitanyaShah26/UI-UX_Infomatrix/blob/main/Streamlit/streamlit_app_preview.mp4" width="80%" controls></video>
+https://github.com/user-attachments/assets/f7455eae-658e-4b27-9695-a63d0274d4ae
+
+![App Preview](https://github.com/ChaitanyaShah26/UI-UX_Infomatrix/blob/main/Streamlit/streamlit_app_preview.mp4)
